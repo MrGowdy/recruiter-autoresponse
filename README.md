@@ -5,7 +5,7 @@ This is licensed under MIT so please feel free to fork and use as you'd like.
 
 If you like it, please consider leaving a github star.  I think that it would be super cool to see how many people this helps.
 
-## the autoresponse
+## the autoresponse (English)
 
 ```
 Hi,
@@ -23,4 +23,28 @@ I look forward to hearing from you.
 Wouter
 
 PS: this is an automatic response. If your message already contains above content or is interesting enough, expect a reply. 
+```
+
+
+
+## the autoresponse (Dutch)
+
+```
+Hi,
+
+Bedankt voor je berichtje. Ik sta altijd open voor nieuwe en interessante uitdagingen. Ik krijg echter veel berichten van verschillende recruiters, dus ik heb helaas niet altijd tijd om een afspraak te plannen. Zeker omdat de uitdaging vaak geen goede match blijkt te zijn.
+
+Ik zou graag verder op je bericht ingaan, maar daarvoor wil ik graag wat basisinformatie op een rij hebben. Kan je de naam van het bedrijf, functieomschrijving en salarisdetails voor deze rol doorsturen?
+
+Hoewel ik waardeer dat getalenteerde en toegewijde recruiters contact opnemen, zou het filteren van serieuze en kwalitatieve uitdagingen een full-time baan zijn zonder autoresponder.
+
+Bij het ontbreken van de aanvullende informatie over de betreffende uitdaging ben ik helaas niet beschikbaar.
+
+Ik hoor graag van je. 
+
+Groet,
+
+Wouter
+
+PS: Dit is een geautomatiseerd antwoord. Als je bericht bovenstaande informatie al bevat of een totaal ander doel heeft kan je een berichtje terug verwachten. 
 ```
